@@ -9,3 +9,7 @@
 src/output/
 src/ray_tmp/
 src/agent_model
+.venv/
+*.egg-info/
+l2t_runs/
+!l2t/requirements.txt
